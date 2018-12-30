@@ -1,1 +1,2 @@
 # Exercism
+[Exercism](https://exercism.io/about) is an online platform to help improve coding skills for numerous languages. Each exercise is downloaded to your computer, where you can then solve it in your normal working environment. Once you have finished it, you can submit it online, where a mentor will provide feedback on how the code could be improved. Depending on the feedback, your code will go through multiple iterations before it can be completed. Upon completion, new exercises are unlocked.
